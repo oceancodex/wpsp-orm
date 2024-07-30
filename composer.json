@@ -1,0 +1,42 @@
+{
+	"name": "oceancodex/wpsp-orm",
+	"version": "8.2.0",
+	"description": "WordPress Starter Plugin - ORM",
+	"keywords": [
+	],
+	"license": "MIT",
+	"require": {
+		"php": "^8.2",
+		"doctrine/orm": "^3.2.1",
+		"gedmo/doctrine-extensions": "^v3.16.1"
+	},
+	"config": {
+		"sort-packages": true
+	},
+	"autoload": {
+		"psr-4": {
+			"WPSPCORE\\ORM\\": "src/"
+		},
+		"files": [
+		]
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"WPSPCORE\\ORM\\Tests\\": "tests/"
+		}
+	},
+	"authors": [
+		{
+			"name": "OceanCodex",
+			"email": "contact@oceancodex.com"
+		}
+	],
+	"scripts": {
+		"post-autoload-dump": [
+		],
+		"post-root-package-install": [
+		],
+		"post-create-project-cmd": [
+		]
+	}
+}
