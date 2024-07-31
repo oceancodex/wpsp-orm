@@ -7,8 +7,7 @@
 	"license": "MIT",
 	"require": {
 		"php": "^8.0",
-		"doctrine/orm": "^2.19.6",
-		"gedmo/doctrine-extensions": "^v3.16.1"
+		"doctrine/orm": "^2.19.6"
 	},
 	"config": {
 		"sort-packages": true
