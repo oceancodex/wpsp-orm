@@ -1,12 +1,12 @@
 {
 	"name": "oceancodex/wpsp-orm",
-	"version": "8.3.0",
+	"version": "8.4.0",
 	"description": "WordPress Starter Plugin - ORM",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.3",
+		"php": "^8.4",
 		"doctrine/orm": "^3.5.2"
 	},
 	"config": {
