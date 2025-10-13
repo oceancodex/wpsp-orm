@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"require": {
 		"php": "^8.0",
-		"doctrine/orm": "^2.19.6"
+		"doctrine/orm": "^2.20.6"
 	},
 	"config": {
 		"sort-packages": true
