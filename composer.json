@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"require": {
 		"php": "^8.0",
-		"doctrine/orm": "^2.14.3",
+		"doctrine/orm": "~2.14.3",
 		"doctrine/annotations": "^1.14.4"
 	},
 	"config": {
